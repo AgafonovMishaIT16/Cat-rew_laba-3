@@ -1,6 +1,6 @@
 # Cat-rew_laba-3
 ЛАБОРАТОРНАЯ РАБОТА №3. Агафонов Михаил, ИТ-16-2024, вариант 2
-# GEMINI.
+# GEMINI
 ЗАДАЧА 1
 Ссылка на чат: https://gemini.google.com/share/e98dca2bf812
 
