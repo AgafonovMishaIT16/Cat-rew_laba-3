@@ -1,0 +1,6 @@
+Evaluation result: -843
+
+Transformed tree forms:
+Prefix: - + 29 * 1 2 * 23 x 
+Postfix: 29 1 2 * + 23 x * - 
+Infix (with redundant brackets): ((29 + (1 * 2)) - (23 * x))
